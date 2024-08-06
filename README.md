@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rayffen
 - 👀 I’m mostly interested in learning software development to move forward in my professional career
 - 🌱 I’m currently learning CSS, JavaScript, React and Solidity
-- 💞️ I’m looking to collaborate on any project that can serve a porposefull meaning and help settle my bases on programming
+- 💞️ I’m looking to collaborate on any project that can serve a porposefull meaning and help develop my skills on programming
 - 📫 How to reach me: @Rayffen on Twitter or Rayffen#8022 ond Discord
 
 <!---
